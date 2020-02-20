@@ -1,7 +1,7 @@
 from translate import Translator
 import discord
 
-token = "Njc4MjgxMDc5Njk3NzAyOTEz.XkvP2g.iw1Sfvr3NMcJRXK0bw8VzfN9ROw"
+token = "your token"
 
 tex = "this is a test pls help "
 
