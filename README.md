@@ -6,4 +6,4 @@ select your language
 now every msg in channel in "translator" channel will be translated to your selected language 
 
 
-always open to suggetion and feedback , Help me improve this :)
+always open to suggestion and feedback , Help me improve this :)
