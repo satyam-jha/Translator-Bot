@@ -25,11 +25,11 @@ Now Save your Token in key.py
 
 Now select the prefered language that you want your message to Translated into 
 for now there is only 7 options 
-- ko = korean
-- zh
-- hi
-- ja
-- ar
-- bh
-- ru
+- ko = Korean
+- zh = Simplified Chinese
+- hi = Hindi
+- ja = Japanese
+- ar = Arabic
+- bh = Bahrain
+- ru = Russian
 now invite your Bot to your server and make a channel 
