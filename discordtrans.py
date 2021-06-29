@@ -1,10 +1,8 @@
 from translate import Translator
 import discord
-
+from .key import Token
 from discord.ext import commands
 
-# use your own token 
-token = "your token"
 
 #client ref
 bot = discord.Client()
@@ -73,4 +71,4 @@ async def on_message(msg):
 
 
 
-bot.run(token)
+bot.run(Token)
